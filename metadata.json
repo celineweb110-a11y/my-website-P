@@ -1,0 +1,6 @@
+{
+  "name": "PIXORA – Imprimerie & Packaging Casablanca",
+  "description": "Imprimerie en ligne de haute qualité et packaging sur mesure à Casablanca et partout au Maroc. Impression offset, numérique, chemises à rabat, boîtes et devis instantané.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
